@@ -12,6 +12,7 @@
 		B22B2C21231253EE00E10C63 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B22B2C1F231253EE00E10C63 /* Main.storyboard */; };
 		B22B2C23231253EF00E10C63 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B22B2C22231253EF00E10C63 /* Assets.xcassets */; };
 		B22B2C26231253EF00E10C63 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B22B2C24231253EF00E10C63 /* LaunchScreen.storyboard */; };
+		B22B2C2E2312581100E10C63 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B22B2C2D2312581100E10C63 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B22B2C22231253EF00E10C63 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B22B2C25231253EF00E10C63 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B22B2C27231253EF00E10C63 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B22B2C2D2312581100E10C63 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				B22B2C1B231253EE00E10C63 /* AppDelegate.swift */,
 				B22B2C1D231253EE00E10C63 /* ViewController.swift */,
+				B22B2C2D2312581100E10C63 /* ResultViewController.swift */,
 				B22B2C1F231253EE00E10C63 /* Main.storyboard */,
 				B22B2C22231253EF00E10C63 /* Assets.xcassets */,
 				B22B2C24231253EF00E10C63 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				B22B2C1E231253EE00E10C63 /* ViewController.swift in Sources */,
 				B22B2C1C231253EE00E10C63 /* AppDelegate.swift in Sources */,
+				B22B2C2E2312581100E10C63 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
